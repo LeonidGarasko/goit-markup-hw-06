@@ -769,3 +769,19 @@ body {
 .modal-text::placeholder {
   color: rgba(117, 117, 117, 0.5);
 }
+.modal-checkbox {
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  text-align: center;
+  color: #757575;
+}
+
+.modal-checkbox span {
+  width: 16px;
+  height: 15px;
+  border: 2px solid #212121;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
